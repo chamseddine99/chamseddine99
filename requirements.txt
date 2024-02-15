@@ -6,7 +6,6 @@ dash-html-components==2.0.0
 dash-renderer==1.9.1
 dash-table==5.0.0
 dash-uploader==0.6.0
-dask==2023.6.0
 datashader==0.15.1
 numpy==1.24.3
 numpydoc==1.5.0
@@ -14,17 +13,4 @@ opencv-python==4.8.1.78
 openpyxl==3.0.10
 packaging==23.0
 pandas==1.5.3
-python-bidi==0.4.2
-python-dateutil==2.8.2
-python-docx==1.1.0
-python-dotenv==0.21.0
-python-json-logger==2.0.7
-python-lsp-black==1.2.1
-python-lsp-jsonrpc==1.0.0
-python-lsp-server==1.7.2
-python-multipart==0.0.6
-python-slugify==5.0.2
-python-snappy==0.6.1
-pytoolconfig==1.2.5
-
 
