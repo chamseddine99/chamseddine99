@@ -8,11 +8,6 @@ dash-table==5.0.0
 dash-uploader==0.6.0
 dask==2023.6.0
 datashader==0.15.1
-datashape==0.5.4
-debugpy==1.6.7
-decorator==5.1.1
-ipython-genutils==0.2.0
-ipywidgets==8.0.4
 numpy==1.24.3
 numpydoc==1.5.0
 opencv-python==4.8.1.78
