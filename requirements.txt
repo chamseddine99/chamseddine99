@@ -1,0 +1,22 @@
+import os
+import numpy as np
+import base64
+import dash
+from dash import dcc
+from dash import html
+import dash_bootstrap_components as dbc
+from dash import Dash, html, dcc, callback, Input, Output, State
+from dash.exceptions import PreventUpdate
+import dash_bootstrap_components as dbc
+from PIL import Image
+import io
+import cv2
+import easyocr
+from PIL import Image
+import io
+from dash import dash_table
+import re
+import pandas as pd
+from googletrans import Translator
+from collections import defaultdict
+import pandas as pd
